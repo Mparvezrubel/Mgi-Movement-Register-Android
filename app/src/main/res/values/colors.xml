@@ -1,1 +1,9 @@
-
+<resources>
+    <color name="primary">#1565C0</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="accent">#2E7D32</color>
+    <color name="surface">#F5F7FA</color>
+    <color name="card">#FFFFFF</color>
+    <color name="text_primary">#17202A</color>
+    <color name="text_secondary">#5F6B7A</color>
+</resources>
